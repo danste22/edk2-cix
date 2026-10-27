@@ -1,3 +1,9 @@
+edk2-cix (1.3.1+o6n1) main; urgency=medium
+
+  * Enable firmware TPM (fTPM) on Orion O6N. Leave LPI and setup UI unchanged.
+
+ -- Daniel <danste22@users.noreply.github.com>  Tue, 27 Oct 2026 14:30:00 +0100
+
 edk2-cix (1.3.1) main; urgency=medium
 
   [ github-actions[bot] ]
